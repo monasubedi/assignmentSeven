@@ -9,6 +9,7 @@ public class Main {
         t.add('c',"Charlie");
 
         System.out.println(t);
+        System.out.println(t.get('c'));
 
 
     }
